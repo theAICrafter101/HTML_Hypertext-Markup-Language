@@ -1,6 +1,8 @@
 # HTML_Hypertext-Markup-Language
+Following are the simple web pages which I have created using HTML.
 
-Built a simple web app to show details about the cat (the lovely animal).
+### 1. Built a simple web app to show details about the cat (the lovely animal).
+### 2. Built a recipe web page made with different ingredients.
 
 What I gained from this:
 - Understand the boilerplate of HTML.
