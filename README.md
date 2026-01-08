@@ -10,3 +10,10 @@ What I gained from this:
 - Grasp the attributes and tags used in HTML head and body.
 - Learn how to convert an image or text into a link.
 - and learn how to attach an image or a link to HTML.
+
+### 3. Built a simple bookstore page.
+what I understood:
+- how to use div elements.
+- why to use div elements (CSS-styling).
+- what are id and class attributes.
+- how to use id and class in HTML.
