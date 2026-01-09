@@ -18,7 +18,7 @@ what I understood:
 - what are id and class attributes.
 - how to use id and class in HTML.
 
-### Travel Agency Page
+### 4. Travel Agency Page
 Important concepts I grasped from it (I was stcuk into this for an hour)
 - how to add meta description for SEO.
 - how to convert a text into an anchor using <a> tag.
