@@ -17,3 +17,10 @@ what I understood:
 - why to use div elements (CSS-styling).
 - what are id and class attributes.
 - how to use id and class in HTML.
+
+### Travel Agency Page
+Important concepts I grasped from it (I was stcuk into this for an hour)
+- how to add meta description for SEO.
+- how to convert a text into an anchor using <a> tag.
+- how to convert an image into an anchor using <a> tag (I was really stuck here).
+- how to use figure element and figcaption for images.
