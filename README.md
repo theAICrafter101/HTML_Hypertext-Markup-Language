@@ -19,8 +19,15 @@ what I understood:
 - how to use id and class in HTML.
 
 ### 4. Travel Agency Page
-Important concepts I grasped from it (I was stcuk into this for an hour)
+Important concepts I grasped from it (I was stcuk into this for an hour):
 - how to add meta description for SEO.
 - how to convert a text into an anchor using <a> tag.
 - how to convert an image into an anchor using <a> tag (I was really stuck here).
 - how to use figure element and figcaption for images.
+
+### 5. Audio and Video Player
+Key skills acquired from building this:
+- how to add audio and video elements into a HTML file.
+- how to add attributes, e.g., controls, loop, src, muted, etc.
+- how to add source elements depending upon the browser.
+- what is the function of width attribute.
