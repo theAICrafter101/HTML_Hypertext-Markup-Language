@@ -26,8 +26,10 @@ Important concepts I grasped from it (I was stcuk into this for an hour):
 - how to use figure element and figcaption for images.
 
 ### 5. Audio and Video Player
+### 6. Video Player Web App
 Key skills acquired from building this:
 - how to add audio and video elements into a HTML file.
 - how to add attributes, e.g., controls, loop, src, muted, etc.
 - how to add source elements depending upon the browser.
-- what is the function of width attribute.
+- usage and function of width and poster attribute.
+- learn about different MIME types, video/mp4, video/webm, video/ogg, video/quicktime
