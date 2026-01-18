@@ -38,3 +38,10 @@ Knowledge acquired from the workshop:
 - understand three tools for images; size, format, and compression
 - Learn about image licenses and how to use them
 - how to use svg attribute to built different shapes
+
+### 8. iframe Elements
+Insights from the workshop:
+- what replaced elements are and how to use them
+- different replaced elements, <img>, <video>, <embed>
+- how to use iframe elements
+- different attributes of iframe element
