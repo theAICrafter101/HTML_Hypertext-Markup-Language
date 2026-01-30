@@ -74,6 +74,98 @@
 - :focus – keyboard or programmatic focus
 - :active – during click/activation
 
+## Semantic HTML
+- Semantic HTML gives meaning and structure to content, making pages more accessible, SEO‑friendly, and easier to maintain.
+- Correct heading levels (<h1> to <h6>) define the logical outline of the page.
+<h1> = main title
+<h6> = smallest subheading
+This helps both users and search engines understand content structure.
+- Old elements that only control appearance and should not be used today.
+Examples: <center>, <font>, <big>.
+
+### Main Semantic Elements
+- Elements that describe purpose and meaning instead of appearance.
+- <header>
+Defines the introductory section of a page or content block, typically featuring logos, titles, or navigation elements.
+- <main>
+Holds the central, unique content of the page (only one <main> per document).
+- <section>
+Represents a logical grouping of related content within a document.
+- <nav>
+Contains major navigation links such as menus, tables of contents, or page pathways.
+- <figure>
+Wraps visual content like images, diagrams, or code snippets, often used with <figcaption>.
+
+### Text-Level Semantic Elements
+- <em>
+Marks text with emphasis or stress, typically rendered in italics.
+- <i>
+Indicates text with an alternate tone or meaning (foreign words, technical terms, moods).
+Not used to show importance.
+Use lang="" when indicating another language.
+- <strong>
+Indicates strong importance or seriousness; typically displayed in bold.
+- <b>
+Highlights text that needs attention (keywords, product names) without implying importance.
+
+### Description Lists
+- <dl>
+A container for a list of terms and their descriptions.
+- <dt>
+The term is being defined.
+- <dd>
+The explanation or description of the term.
+
+### Quotation Elements
+- <blockquote>
+Represents long, block-level quotations.
+Supports cite="" for the source URL.
+- <cite>
+Indicates the title or name of a referenced work.
+- <q>
+Represents short, inline quotations within text.
+
+### Additional
+- <abbr>
+Defines an abbreviation or acronym.
+Use title="" to show its full form.
+- <address>
+Displays contact information (physical address, email, phone).
+- <time>
+Represents dates and/or times.
+Use datetime="" for machine-readable ISO 8601 timestamps.
+- ISO 8601 datetime Attribute
+Standardized date‑time format:
+YYYY-MM-DDThh:mm:ss
+(“T” separates date and time.)
+
+### Numeric Elements
+- <sup>
+Displays superscript characters.
+Used for exponents, ordinal numbers, etc.
+- <sub>
+Displays subscript characters.
+Used for chemical formulas, variable indices, etc.
+
+### Code & Preformatted Text
+- <code>
+Marks inline fragments of computer code.
+- <pre>
+Displays preformatted text, preserving spacing and line breaks.
+
+### Specialized Text Markup
+- <u>
+Marks text with a non-textual annotation (not for emphasis).
+- <ruby>
+Used for phonetic guides or annotations in East Asian typography.
+- <rt>
+Provides the ruby annotation text (pronunciation/translation).
+- <rp>
+Fallback parentheses for older browsers that don’t support ruby text.
+- <s>
+Represents text that is no longer correct or relevant.
+
+
 ## The following are the simple web pages that I created using HTML.
 
 ### 1. Built a simple web app to show details about the cat (the lovely animal).
